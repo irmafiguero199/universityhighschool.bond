@@ -59,8 +59,8 @@ export default function Footer() {
               </a>
             </p>
             <p>
-              <a href="mailto:admin@universityhighschool.sbs" className="flex items-center gap-2 hover:text-white">
-                <Mail size={16} className="shrink-0 text-gold-400" aria-hidden="true" /> admin@universityhighschool.sbs
+              <a href="mailto:admin@universityhighschool.bond" className="flex items-center gap-2 hover:text-white">
+                <Mail size={16} className="shrink-0 text-gold-400" aria-hidden="true" /> admin@universityhighschool.bond
               </a>
             </p>
           </address>
