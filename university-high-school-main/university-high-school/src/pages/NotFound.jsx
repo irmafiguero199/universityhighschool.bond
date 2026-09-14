@@ -12,7 +12,7 @@ export default function NotFound() {
         <h1 className="mt-4 font-serif text-3xl font-bold text-ink">Page not found</h1>
         <p className="mt-3 text-slate-600">
           The page you are looking for does not exist. Visit the University High School home page
-          or contact the office at <a href="mailto:admin@universityhighschool.sbs" className="font-semibold text-primary-700 hover:underline">admin@universityhighschool.sbs</a>.
+          or contact the office at <a href="mailto:admin@universityhighschool.bond" className="font-semibold text-primary-700 hover:underline">admin@universityhighschool.bond</a>.
         </p>
         <Link to="/" className="btn-primary mt-8">Back to home</Link>
       </section>
