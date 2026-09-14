@@ -5,7 +5,7 @@ export default function TermsOfService() {
     <>
       <Helmet>
         <title>Terms of Service &amp; School Regulations | University High School — Fresno, CA — EIN 77-0515663</title>
-        <link rel="canonical" href="https://www.universityhighschool.sbs/terms" />
+        <link rel="canonical" href="https://www.universityhighschool.bond/terms" />
       </Helmet>
       <section className="mx-auto max-w-3xl px-4 py-16">
         <h1 className="font-serif text-4xl font-bold text-ink">Terms of Service &amp; School Regulations</h1>
@@ -18,7 +18,7 @@ export default function TermsOfService() {
               This website is the official online presence of University High School, an accredited
               educational institution with federal identification number EIN 77-0515663, located at
               2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001, United States. Official contact:
-              <a href="mailto:admin@universityhighschool.sbs" className="font-semibold text-primary-700 hover:underline"> admin@universityhighschool.sbs</a>.
+              <a href="mailto:admin@universityhighschool.bond" className="font-semibold text-primary-700 hover:underline"> admin@universityhighschool.bond</a>.
             </p>
           </div>
           <div>
@@ -51,7 +51,7 @@ export default function TermsOfService() {
             <p className="mt-2">
               Questions about these terms may be directed to the main office at
               <a href="tel:+13195555405" className="font-semibold text-primary-700 hover:underline"> +1 (319) 555-5405 </a>
-              or <a href="mailto:admin@universityhighschool.sbs" className="font-semibold text-primary-700 hover:underline">admin@universityhighschool.sbs</a>.
+              or <a href="mailto:admin@universityhighschool.bond" className="font-semibold text-primary-700 hover:underline">admin@universityhighschool.bond</a>.
             </p>
           </div>
         </div>
