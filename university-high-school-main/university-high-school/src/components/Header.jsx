@@ -35,8 +35,8 @@ export default function Header() {
             <a href="tel:+13195555405" className="inline-flex items-center gap-1.5 hover:text-white" aria-label="Call University High School">
               <Phone size={14} aria-hidden="true" /> +1 (319) 555-5405
             </a>
-            <a href="mailto:admin@universityhighschool.sbs" className="hidden items-center gap-1.5 hover:text-white sm:inline-flex" aria-label="Email University High School">
-              <Mail size={14} aria-hidden="true" /> admin@universityhighschool.sbs
+            <a href="mailto:admin@universityhighschool.bond" className="hidden items-center gap-1.5 hover:text-white sm:inline-flex" aria-label="Email University High School">
+              <Mail size={14} aria-hidden="true" /> admin@universityhighschool.bond
             </a>
           </span>
         </div>
