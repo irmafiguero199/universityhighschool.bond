@@ -3,7 +3,7 @@ import SectionHeader from '../components/SectionHeader.jsx'
 import { CheckCircle2, CalendarDays, FileText } from 'lucide-react'
 
 const steps = [
-  { title: 'Submit an inquiry', text: 'Email the admissions office at admin@universityhighschool.sbs.' },
+  { title: 'Submit an inquiry', text: 'Email the admissions office at admin@universityhighschool.bond.' },
   { title: 'Visit the campus', text: 'Join an open house at 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001. Tour classrooms, labs and meet faculty.' },
   { title: 'Apply online', text: 'Submit the application form, transcripts from the current school, and two recommendation letters.' },
   { title: 'Family interview', text: 'A 30-minute conversation between the family, the student and a member of the admissions team.' },
@@ -34,7 +34,7 @@ export default function Admissions() {
       <Helmet>
         <title>Admissions | University High School — Fresno, CA — EIN 77-0515663</title>
         <meta name="description" content="Apply to University High School, Fresno, CA. Admissions process, required documents and calendar for grades 9–12. EIN 77-0515663 · 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001." />
-        <link rel="canonical" href="https://www.universityhighschool.sbs/admissions" />
+        <link rel="canonical" href="https://www.universityhighschool.bond/admissions" />
       </Helmet>
 
       <section className="bg-primary-900 py-16 text-center">
