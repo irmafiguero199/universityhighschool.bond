@@ -8,7 +8,7 @@ export default function Accreditation() {
       <Helmet>
         <title>Accreditation &amp; Legal Status | University High School — EIN 77-0515663 — Fresno, CA</title>
         <meta name="description" content="Official accreditation and legal status of University High School: EIN 77-0515663, 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001. Google Workspace for Education institution." />
-        <link rel="canonical" href="https://www.universityhighschool.sbs/accreditation" />
+        <link rel="canonical" href="https://www.universityhighschool.bond/accreditation" />
       </Helmet>
 
       <section className="bg-primary-900 py-16 text-center">
@@ -54,7 +54,7 @@ export default function Accreditation() {
             <p className="mt-2 text-sm leading-relaxed text-slate-600">
               University High School is a Google Workspace for Education institution.
               All student and staff accounts are provisioned on the verified institutional
-              domain <strong className="text-ink">universityhighschool.sbs</strong> under
+              domain <strong className="text-ink">universityhighschool.bond</strong> under
               administrative supervision, using Google Classroom, Drive, Docs, Gmail and Meet
               for instruction.
             </p>
@@ -74,13 +74,13 @@ export default function Accreditation() {
             <li className="flex items-center gap-2"><FileText size={16} className="shrink-0 text-primary-600" aria-hidden="true" /> Student Records &amp; Privacy Policy (FERPA-aligned)</li>
           </ul>
           <p className="mt-6 text-center">
-            <a href="mailto:admin@universityhighschool.sbs" className="btn-primary"><Mail size={16} aria-hidden="true" /> Request documents — admin@universityhighschool.sbs</a>
+            <a href="mailto:admin@universityhighschool.bond" className="btn-primary"><Mail size={16} aria-hidden="true" /> Request documents — admin@universityhighschool.bond</a>
           </p>
         </div>
 
         <p className="mt-10 text-center text-xs text-slate-500">
           University High School · EIN 77-0515663 · 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001 ·
-          <a href="mailto:admin@universityhighschool.sbs" className="hover:underline"> admin@universityhighschool.sbs </a> ·
+          <a href="mailto:admin@universityhighschool.bond" className="hover:underline"> admin@universityhighschool.bond </a> ·
           <a href="tel:+13195555405" className="hover:underline"> +1 (319) 555-5405</a>
         </p>
       </section>
