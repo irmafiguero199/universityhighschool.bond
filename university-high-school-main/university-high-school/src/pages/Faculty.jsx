@@ -20,7 +20,7 @@ export default function Faculty() {
       <Helmet>
         <title>Faculty &amp; Administration | University High School — Fresno, CA — EIN 77-0515663</title>
         <meta name="description" content="Meet the leadership team and services of University High School, 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001. EIN 77-0515663." />
-        <link rel="canonical" href="https://www.universityhighschool.sbs/faculty" />
+        <link rel="canonical" href="https://www.universityhighschool.bond/faculty" />
       </Helmet>
 
       <section className="bg-primary-900 py-16 text-center">
@@ -65,7 +65,7 @@ export default function Faculty() {
             </p>
             <div className="flex shrink-0 gap-3">
               <a href="tel:+13195555405" className="btn-outline !py-2"><Phone size={16} aria-hidden="true" /> +1 (319) 555-5405</a>
-              <a href="mailto:admin@universityhighschool.sbs" className="btn-primary !py-2"><Mail size={16} aria-hidden="true" /> Email office</a>
+              <a href="mailto:admin@universityhighschool.bond" className="btn-primary !py-2"><Mail size={16} aria-hidden="true" /> Email office</a>
             </div>
           </div>
         </div>
