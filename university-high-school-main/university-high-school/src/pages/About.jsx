@@ -23,7 +23,7 @@ export default function About() {
       <Helmet>
         <title>About University High School | History, Mission &amp; Values — Fresno, CA — EIN 77-0515663</title>
         <meta name="description" content="History, mission and values of University High School, an accredited college-preparatory high school at 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001 (EIN 77-0515663)." />
-        <link rel="canonical" href="https://www.universityhighschool.sbs/about" />
+        <link rel="canonical" href="https://www.universityhighschool.bond/about" />
       </Helmet>
 
       <section className="bg-primary-900 py-16 text-center">
