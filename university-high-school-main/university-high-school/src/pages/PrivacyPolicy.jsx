@@ -5,11 +5,11 @@ export default function PrivacyPolicy() {
     <>
       <Helmet>
         <title>Privacy Policy | University High School — Fresno, CA — EIN 77-0515663</title>
-        <link rel="canonical" href="https://www.universityhighschool.sbs/privacy-policy" />
+        <link rel="canonical" href="https://www.universityhighschool.bond/privacy-policy" />
       </Helmet>
       <section className="mx-auto max-w-3xl px-4 py-16">
         <h1 className="font-serif text-4xl font-bold text-ink">Privacy Policy</h1>
-        <p className="mt-2 text-sm text-slate-500">Last updated: September 1, 2026 · Applies to www.universityhighschool.sbs</p>
+        <p className="mt-2 text-sm text-slate-500">Last updated: September 1, 2026 · Applies to www.universityhighschool.bond</p>
 
         <div className="mt-8 space-y-6 text-sm leading-relaxed text-slate-700">
           <div>
@@ -18,7 +18,7 @@ export default function PrivacyPolicy() {
               This website is operated by University High School (EIN 77-0515663), an accredited
               educational institution located at 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001,
               United States. For any privacy question, contact
-              <a href="mailto:admin@universityhighschool.sbs" className="font-semibold text-primary-700 hover:underline"> admin@universityhighschool.sbs </a>
+              <a href="mailto:admin@universityhighschool.bond" className="font-semibold text-primary-700 hover:underline"> admin@universityhighschool.bond </a>
               or call <a href="tel:+13195555405" className="font-semibold text-primary-700 hover:underline">+1 (319) 555-5405</a>.
             </p>
           </div>
