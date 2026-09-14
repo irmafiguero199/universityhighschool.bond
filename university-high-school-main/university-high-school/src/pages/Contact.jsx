@@ -37,8 +37,8 @@ export default function Contact() {
             <h2 className="mt-5 flex items-center gap-2 font-bold text-ink">
               <Mail size={20} className="text-primary-600" aria-hidden="true" /> Email
             </h2>
-            <a href="mailto:admin@universityhighschool.sbs" className="mt-2 block text-sm font-semibold text-primary-700 hover:underline">
-              admin@universityhighschool.sbs
+            <a href="mailto:admin@universityhighschool.bond" className="mt-2 block text-sm font-semibold text-primary-700 hover:underline">
+              admin@universityhighschool.bond
             </a>
           </div>
 
@@ -70,8 +70,8 @@ export default function Contact() {
               <li><strong>Status:</strong> Accredited educational institution</li>
               <li>
                 <strong>Website:</strong>{' '}
-                <a href="https://www.universityhighschool.sbs" className="font-semibold text-primary-700 hover:underline">
-                  www.universityhighschool.sbs
+                <a href="https://www.universityhighschool.bond" className="font-semibold text-primary-700 hover:underline">
+                  www.universityhighschool.bond
                 </a>
               </li>
             </ul>
