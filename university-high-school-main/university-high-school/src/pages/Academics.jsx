@@ -17,7 +17,7 @@ export default function Academics() {
       <Helmet>
         <title>Academics at University High School | Curriculum &amp; Programs — Fresno, CA — EIN 77-0515663</title>
         <meta name="description" content="College-preparatory curriculum at University High School, Fresno, CA: 24 AP & Honors courses, STEM pathway and Google Workspace for Education. EIN 77-0515663." />
-        <link rel="canonical" href="https://www.universityhighschool.sbs/academics" />
+        <link rel="canonical" href="https://www.universityhighschool.bond/academics" />
       </Helmet>
 
       <section className="bg-primary-900 py-16 text-center">
@@ -70,7 +70,7 @@ export default function Academics() {
         <h2 className="font-serif text-3xl font-bold text-ink">Academic support & digital tools</h2>
         <p className="mt-4 leading-relaxed text-slate-600">
           Students and parents can reach the academic office at
-          <a href="mailto:admin@universityhighschool.sbs" className="font-semibold text-primary-700 hover:underline"> admin@universityhighschool.sbs </a>
+          <a href="mailto:admin@universityhighschool.bond" className="font-semibold text-primary-700 hover:underline"> admin@universityhighschool.bond </a>
           or <a href="tel:+13195555405" className="font-semibold text-primary-700 hover:underline">+1 (319) 555-5405</a>.
           Weekly office hours, peer tutoring and a structured advisory program support every learner.
         </p>
