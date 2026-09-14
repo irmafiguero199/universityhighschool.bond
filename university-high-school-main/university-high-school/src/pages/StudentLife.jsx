@@ -17,7 +17,7 @@ export default function StudentLife() {
       <Helmet>
         <title>Student Life | University High School — Fresno, CA — EIN 77-0515663</title>
         <meta name="description" content="Clubs, athletics, arts and STEM projects at University High School, 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001. EIN 77-0515663." />
-        <link rel="canonical" href="https://www.universityhighschool.sbs/student-life" />
+        <link rel="canonical" href="https://www.universityhighschool.bond/student-life" />
       </Helmet>
 
       <section className="bg-primary-900 py-16 text-center">
