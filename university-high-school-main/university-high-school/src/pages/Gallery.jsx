@@ -18,7 +18,7 @@ export default function Gallery() {
       <Helmet>
         <title>Photo Gallery | University High School — Campus &amp; Student Life — EIN 77-0515663</title>
         <meta name="description" content="Photos of University High School campus, classrooms, laboratories, athletics and events at 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001. EIN 77-0515663." />
-        <link rel="canonical" href="https://www.universityhighschool.sbs/gallery" />
+        <link rel="canonical" href="https://www.universityhighschool.bond/gallery" />
       </Helmet>
       <section className="bg-primary-900 py-16 text-center">
         <h1 className="font-serif text-4xl font-bold text-white">Photo Gallery</h1>
