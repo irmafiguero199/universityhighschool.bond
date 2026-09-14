@@ -24,8 +24,8 @@ export default function Home() {
     <>
       <Helmet>
         <title>University High School | Accredited College-Prep High School in Fresno, CA — EIN 77-0515663</title>
-        <meta name="description" content="University High School is an accredited college-preparatory high school at 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001. EIN 77-0515663. Email: admin@universityhighschool.sbs." />
-        <link rel="canonical" href="https://www.universityhighschool.sbs/" />
+        <meta name="description" content="University High School is an accredited college-preparatory high school at 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001. EIN 77-0515663. Email: admin@universityhighschool.bond." />
+        <link rel="canonical" href="https://www.universityhighschool.bond/" />
       </Helmet>
 
       <Hero />
