@@ -1,6 +1,6 @@
 import { Helmet } from 'react-helmet-async'
 import SectionHeader from '../components/SectionHeader.jsx'
-import { ShieldCheck, Target, HeartHandshake, Lightbulb } from 'lucide-react'
+import { ShieldCheck, Target, HeartHandshake, Lightbulb, Mail, MapPin, Building } from 'lucide-react'
 
 const timeline = [
   { year: '1998', title: 'Foundation', text: 'University High School opens its doors in Fresno, California, with 180 founding students and a college-preparatory mission.' },
@@ -22,7 +22,7 @@ export default function About() {
     <>
       <Helmet>
         <title>About University High School | History, Mission &amp; Values — Fresno, CA — EIN 77-0515663</title>
-        <meta name="description" content="History, mission and values of University High School, an accredited college-preparatory high school at 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001 (EIN 77-0515663)." />
+        <meta name="description" content="History, mission and values of University High School, an accredited college-preparatory high school at 2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001 (EIN 77-0515663). Contact us at admin@universityhighschool.bond." />
         <link rel="canonical" href="https://www.universityhighschool.bond/about" />
       </Helmet>
 
@@ -45,16 +45,46 @@ export default function About() {
           </p>
           <p>
             The school operates as an accredited educational institution under U.S. federal
-            identification number EIN 77-0515663, with its official address at
-            2611 E Matoian Way Ms Uh 134, Fresno, CA 93740-0001. University High School
-            maintains full institutional records, a published board-approved governance
-            structure, and transparent academic policies available to all families.
+            identification number EIN 77-0515663. University High School maintains full institutional
+            records, a published board-approved governance structure, and transparent academic
+            policies available to all families.
           </p>
           <p>
             Today, UHS graduates matriculate to public and private universities across
             California and the nation, carrying forward the school's motto:
             <em className="font-serif"> “Knowledge, Character, Community.”</em>
           </p>
+        </div>
+
+        {/* Section Contact Info / Quick Reference */}
+        <div className="mt-12 grid gap-6 rounded-xl border border-slate-200 bg-slate-50 p-6 sm:grid-cols-3">
+          <div className="flex items-start gap-3">
+            <Building className="mt-1 h-5 w-5 text-primary-600 shrink-0" />
+            <div>
+              <h4 className="font-bold text-ink">EIN / Federal ID</h4>
+              <p className="text-sm text-slate-600">77-0515663</p>
+            </div>
+          </div>
+          <div className="flex items-start gap-3">
+            <Mail className="mt-1 h-5 w-5 text-primary-600 shrink-0" />
+            <div>
+              <h4 className="font-bold text-ink">Email</h4>
+              <a href="mailto:admin@universityhighschool.bond" className="text-sm text-primary-600 hover:underline">
+                admin@universityhighschool.bond
+              </a>
+            </div>
+          </div>
+          <div className="flex items-start gap-3">
+            <MapPin className="mt-1 h-5 w-5 text-primary-600 shrink-0" />
+            <div>
+              <h4 className="font-bold text-ink">Address</h4>
+              <p className="text-sm text-slate-600">
+                University High School<br />
+                2611 E Matoian Way Ms Uh 134<br />
+                Fresno, CA 93740-0001, United States
+              </p>
+            </div>
+          </div>
         </div>
       </section>
 
